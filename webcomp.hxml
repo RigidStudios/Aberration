@@ -1,0 +1,12 @@
+-cp src
+-lib heaps
+# -lib hldx
+-lib hxmath
+-lib hxbit
+-lib box2d
+-lib actuate
+# -lib libnoise
+# -lib hlopenal
+
+-js web/game.js
+-main Main
